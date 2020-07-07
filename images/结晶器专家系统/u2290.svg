@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="439px" height="484px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="1377.18473895582" y1="374.85520361991" x2="951.407630522088" y2="374.85520361991" id="LinearGradient555">
-      <stop id="Stop556" stop-color="#000000" offset="0" />
-      <stop id="Stop557" stop-color="#a30014" offset="0.1" />
-      <stop id="Stop558" stop-color="#c280ff" offset="0.19" />
-      <stop id="Stop559" stop-color="#ffff80" offset="0.28" />
-      <stop id="Stop560" stop-color="#81d3f8" stop-opacity="0.996078431372549" offset="0.48" />
-      <stop id="Stop561" stop-color="#ffff80" stop-opacity="0.996078431372549" offset="0.7" />
-      <stop id="Stop562" stop-color="#c280ff" offset="0.78" />
-      <stop id="Stop563" stop-color="#d9001b" offset="0.9" />
-      <stop id="Stop564" stop-color="#000000" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1377.18473895582" y1="374.85520361991" x2="951.407630522088" y2="374.85520361991" id="LinearGradient196">
+      <stop id="Stop197" stop-color="#000000" offset="0" />
+      <stop id="Stop198" stop-color="#a30014" offset="0.1" />
+      <stop id="Stop199" stop-color="#c280ff" offset="0.19" />
+      <stop id="Stop200" stop-color="#ffff80" offset="0.28" />
+      <stop id="Stop201" stop-color="#81d3f8" stop-opacity="0.996078431372549" offset="0.48" />
+      <stop id="Stop202" stop-color="#ffff80" stop-opacity="0.996078431372549" offset="0.7" />
+      <stop id="Stop203" stop-color="#c280ff" offset="0.78" />
+      <stop id="Stop204" stop-color="#d9001b" offset="0.9" />
+      <stop id="Stop205" stop-color="#000000" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -947 -123 )">
-    <path d="M 947 123  L 1386 123  L 1386 607  L 947 607  L 947 123  Z " fill-rule="nonzero" fill="url(#LinearGradient555)" stroke="none" />
+    <path d="M 947 123  L 1386 123  L 1386 607  L 947 607  L 947 123  Z " fill-rule="nonzero" fill="url(#LinearGradient196)" stroke="none" />
   </g>
 </svg>

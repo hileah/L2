@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="485px" height="180px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="1489.26104417671" y1="382.665158371041" x2="1018.86947791165" y2="382.665158371041" id="LinearGradient528">
-      <stop id="Stop529" stop-color="#000000" offset="0" />
-      <stop id="Stop530" stop-color="#a30014" offset="0.1" />
-      <stop id="Stop531" stop-color="#c280ff" offset="0.19" />
-      <stop id="Stop532" stop-color="#ffff80" offset="0.28" />
-      <stop id="Stop533" stop-color="#81d3f8" stop-opacity="0.996078431372549" offset="0.48" />
-      <stop id="Stop534" stop-color="#ffff80" stop-opacity="0.996078431372549" offset="0.7" />
-      <stop id="Stop535" stop-color="#c280ff" offset="0.78" />
-      <stop id="Stop536" stop-color="#d9001b" offset="0.9" />
-      <stop id="Stop537" stop-color="#000000" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1489.26104417671" y1="382.665158371041" x2="1018.86947791165" y2="382.665158371041" id="LinearGradient169">
+      <stop id="Stop170" stop-color="#000000" offset="0" />
+      <stop id="Stop171" stop-color="#a30014" offset="0.1" />
+      <stop id="Stop172" stop-color="#c280ff" offset="0.19" />
+      <stop id="Stop173" stop-color="#ffff80" offset="0.28" />
+      <stop id="Stop174" stop-color="#81d3f8" stop-opacity="0.996078431372549" offset="0.48" />
+      <stop id="Stop175" stop-color="#ffff80" stop-opacity="0.996078431372549" offset="0.7" />
+      <stop id="Stop176" stop-color="#c280ff" offset="0.78" />
+      <stop id="Stop177" stop-color="#d9001b" offset="0.9" />
+      <stop id="Stop178" stop-color="#000000" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -1014 -289 )">
-    <path d="M 1014 289  L 1499 289  L 1499 469  L 1014 469  L 1014 289  Z " fill-rule="nonzero" fill="url(#LinearGradient528)" stroke="none" />
+    <path d="M 1014 289  L 1499 289  L 1499 469  L 1014 469  L 1014 289  Z " fill-rule="nonzero" fill="url(#LinearGradient169)" stroke="none" />
   </g>
 </svg>
