@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="73px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="839.999999999999" cy="611.000000000001" r="44.2786885245913" gradientTransform="matrix(2.31077652384915E-14 -1 0.835616438356166 1.93092284869587E-14 329.438356164361 1450.99999999999 )" gradientUnits="userSpaceOnUse" id="RadialGradient280">
-      <stop id="Stop281" stop-color="#80ffff" offset="0" />
-      <stop id="Stop282" stop-color="#ffffff" offset="1" />
+    <radialGradient cx="839.999999999999" cy="611.000000000001" r="44.2786885245913" gradientTransform="matrix(2.31077652384915E-14 -1 0.835616438356166 1.93092284869587E-14 329.438356164361 1450.99999999999 )" gradientUnits="userSpaceOnUse" id="RadialGradient401">
+      <stop id="Stop402" stop-color="#80ffff" offset="0" />
+      <stop id="Stop403" stop-color="#ffffff" offset="1" />
     </radialGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -825 -611 )">
-    <path d="M 854.5 617  C 854.5 617  854.5 678  854.5 678  C 854.5 681.248  847.7 683.5  840 683.5  C 832.3 683.5  825.5 681.248  825.5 678  C 825.5 678  825.5 617  825.5 617  C 825.5 613.752  832.3 611.5  840 611.5  C 847.7 611.5  854.5 613.752  854.5 617  Z " fill-rule="nonzero" fill="url(#RadialGradient280)" stroke="none" />
+    <path d="M 854.5 617  C 854.5 617  854.5 678  854.5 678  C 854.5 681.248  847.7 683.5  840 683.5  C 832.3 683.5  825.5 681.248  825.5 678  C 825.5 678  825.5 617  825.5 617  C 825.5 613.752  832.3 611.5  840 611.5  C 847.7 611.5  854.5 613.752  854.5 617  Z " fill-rule="nonzero" fill="url(#RadialGradient401)" stroke="none" />
     <path d="M 825.5 617.417808219178  C 825.5 614.103835616438  831.88 611.5  840 611.5  C 848.12 611.5  854.5 614.103835616438  854.5 617.417808219178  C 854.5 617.417808219178  854.5 677.582191780822  854.5 677.582191780822  C 854.5 680.896164383562  848.12 683.5  840 683.5  C 831.88 683.5  825.5 680.896164383562  825.5 677.582191780822  C 825.5 677.582191780822  825.5 617.417808219178  825.5 617.417808219178  Z " stroke-width="1" stroke="#ffffff" fill="none" />
     <path d="M 854.5 617  C 854.5 620.08  848.12 622.5  840 622.5  C 831.88 622.5  825.5 620.08  825.5 617  " stroke-width="1" stroke="#ffffff" fill="none" />
   </g>
