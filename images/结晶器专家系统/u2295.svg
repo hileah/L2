@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="116px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="914.999999999999" cy="568.000000000002" r="70.3606557377067" gradientTransform="matrix(1.454195571043E-14 -1 0.525862068965519 7.64706291669167E-15 616.31034482757 1483 )" gradientUnits="userSpaceOnUse" id="RadialGradient162">
+      <stop id="Stop163" stop-color="#80ffff" offset="0" />
+      <stop id="Stop164" stop-color="#ffffff" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -900 -568 )">
+    <path d="M 929.5 574  C 929.5 574  929.5 678  929.5 678  C 929.5 681.248  922.7 683.5  915 683.5  C 907.3 683.5  900.5 681.248  900.5 678  C 900.5 678  900.5 574  900.5 574  C 900.5 570.752  907.3 568.5  915 568.5  C 922.7 568.5  929.5 570.752  929.5 574  Z " fill-rule="nonzero" fill="url(#RadialGradient162)" stroke="none" />
+    <path d="M 900.5 574.448275862069  C 900.5 571.11724137931  906.88 568.5  915 568.5  C 923.12 568.5  929.5 571.11724137931  929.5 574.448275862069  C 929.5 574.448275862069  929.5 677.551724137931  929.5 677.551724137931  C 929.5 680.88275862069  923.12 683.5  915 683.5  C 906.88 683.5  900.5 680.88275862069  900.5 677.551724137931  C 900.5 677.551724137931  900.5 574.448275862069  900.5 574.448275862069  Z " stroke-width="1" stroke="#ffffff" fill="none" />
+    <path d="M 929.5 574  C 929.5 577.08  923.12 579.5  915 579.5  C 906.88 579.5  900.5 577.08  900.5 574  " stroke-width="1" stroke="#ffffff" fill="none" />
+  </g>
+</svg>
